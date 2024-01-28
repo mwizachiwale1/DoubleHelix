@@ -16,3 +16,15 @@
 
 DoubleHelix -> Service -> Help user achieve task.
 
+## The Concept of a gene
+ A gene is a fundamental unit of heredity that carries instructions for the development, functioning, and maintenance of living organisms. Genes are composed of DNA, and each gene contains a specific sequence of nucleotides that encode information for building and maintaining proteins or influencing other cellular functions. The combination of genes determines an organism's traits, characteristics, and overall biological makeup.
+
+ ## More out of context sentences
+ Let me tell you one important thing about people:
+ - "They haven't come to see how beautiful your product is."
+So if people haven't come to behold the splendor of your product, then what have they come to do?
+The answer to that is obvious, people come to use your product to achieve a goal which *you* promised they will be able to achieve by using your product.
+
+
+## Naming Convention
+-- Every component...
